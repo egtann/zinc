@@ -1,0 +1,19 @@
+{
+  "author": "Evan Tann <egtann@gmail.com> (https://github.com/egtann)",
+  "name": "zinc",
+  "description": "Zinc.io API wrapper",
+  "version": "0.1.0",
+  "homepage": "https://github.com/egtann/zinc",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/egtann/zinc.git"
+  },
+  "engines": {
+    "node": ">= v0.10.0"
+  },
+  "main": "lib/main.js",
+  "dependencies": {
+    "vows": "~0.7.0"
+  },
+  "devDependencies": {}
+}
