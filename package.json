@@ -2,7 +2,7 @@
   "author": "Evan Tann <egtann@gmail.com> (https://github.com/airlok)",
   "name": "zinc",
   "description": "Zinc.io API wrapper",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/airlok/zinc",
   "repository": {
     "type": "git",
