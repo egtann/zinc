@@ -30,7 +30,7 @@ Access to the [Zinc](https://zinc.io/) [API](https://zinc.io/docs).
 All methods takes a callback as their last parameter. The callback is
 called with a Javascript `Error` (if any) and then the response.
 
-* `zinc.orders` - create, retrieve, refund and list charges
+* `zinc.orders` - create, retrieve, and cancel orders
    * `.create(order)` - [create an order](https://zinc.io/docs#placing-order)
    * `.retrieve(order)` - [retrieve an order](https://zinc.io/docs#order-object) by order id
    * `.cancel(order_id)` - [cancel an order](https://zinc.io/docs#cancelling-order)
