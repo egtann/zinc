@@ -1,12 +1,12 @@
 {
-  "author": "Evan Tann <egtann@gmail.com> (https://github.com/egtann)",
+  "author": "Evan Tann <egtann@gmail.com> (https://github.com/airlok)",
   "name": "zinc",
   "description": "Zinc.io API wrapper",
-  "version": "0.1.0",
-  "homepage": "https://github.com/egtann/zinc",
+  "version": "0.1.1",
+  "homepage": "https://github.com/airlok/zinc",
   "repository": {
     "type": "git",
-    "url": "git://github.com/egtann/zinc.git"
+    "url": "git://github.com/airlok/zinc.git"
   },
   "engines": {
     "node": ">= v0.10.0"
